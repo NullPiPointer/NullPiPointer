@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer<br>Bachelor of Science in Software Development<br>Indie-game developer in free time
+Hey there! Welcome to my GitHub!<br>My name is Daniel and I primarly work on Back-End Software Development ranging from Game design to API's<br>Bachelor of Science in Software Development<br>Indie-game developer in free time
 
 
 ## 🌐 Socials:
