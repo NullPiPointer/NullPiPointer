@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hey there! Welcome to my GitHub!<br>My name is Daniel and I primarly work on back-end software development ranging from game design to API's<br>Bachelor of Science in Software Development<br>Indie-game developer in free time<br><br>Check out my most recent project, [[EconoMe]](https://github.com/TheLastDigitOfPi/EconoME) to get a feel for what I can do!
+Hey there! Welcome to my GitHub!<br>My name is Daniel and I primarly work on back-end software development ranging from game design to API's<br>Bachelor of Science in Software Development<br>Indie-game developer in free time<br>
+
+<br>Check out my most recent project, [[Maze Pathdfinding]](https://play.unity.com/mg/other/pathfinding-1-0)!
+<br>Check out my most ambitious project, [[EconoMe]](https://github.com/TheLastDigitOfPi/EconoME) to get a feel for what I can do!
 
 
 ## 🌐 Socials:
